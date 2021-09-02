@@ -1,7 +1,12 @@
 # TAREA-8
-![image](https://user-images.githubusercontent.com/85320165/131928765-646e56f8-d0ec-4b4d-b5b4-c597dd0b64cc.png)
+## UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
-integrantes:
+
+
+
+# ![image](https://user-images.githubusercontent.com/85320165/131928765-646e56f8-d0ec-4b4d-b5b4-c597dd0b64cc.png)
+
+# Integrantes:
 
 -Josue Pillajo
 
@@ -11,7 +16,7 @@ integrantes:
 
 -Nayeli Tisalema
 
-1.OBJETIVOS
+# 1.OBJETIVOS
 
 1.1.Objetivo general.
 
@@ -25,27 +30,27 @@ Analizar y comprender el capitulo  9-10 del libro de "Analisis de circuitos elec
 
 -Revisar el funcionamiento de ls fuentes de voltaje y corriente  saber como transformarlas para poder facilitar el analisis
 
-2.MARCO TEÓRICO (RESUMEN)
+# 2.MARCO TEÓRICO (RESUMEN)
 
 
 
-3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+# 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-#capitulo15
-
-
-#capitulo16
-
-4.VIDEO
+# capitulo15
 
 
+# capitulo16
 
-5.CONCLUSIONES
+# 4.VIDEO
+
+
+
+# 5.CONCLUSIONES
 -El analisis los circuitos mediante los métodos estudiados facilitó  la solución de los mismos.
 -Una fuente de corriente mantiene la misma corriente en la rama del circuito indistintamente de los componentes que allí se encuentren asi es siempre que los componentes esten en serie. 
 -La transformacion de fuentes ayudo mucho hacer los calculos mucha mas comodidad
 
-6.BIBLIOGRAFÍA
+# 6.BIBLIOGRAFÍA
 Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
 
 
