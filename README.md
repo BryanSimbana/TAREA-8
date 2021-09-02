@@ -1,7 +1,5 @@
 # TAREA-8
-
 ![image](https://user-images.githubusercontent.com/85320165/131928765-646e56f8-d0ec-4b4d-b5b4-c597dd0b64cc.png)
-
 
 integrantes:
 
@@ -33,6 +31,10 @@ Analizar y comprender el capitulo  9-10 del libro de "Analisis de circuitos elec
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+#capitulo15
+
+
+#capitulo16
 
 4.VIDEO
 
