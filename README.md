@@ -43,12 +43,23 @@ ilitar el analisis
 
 33. Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 us.
 
+![33](https://user-images.githubusercontent.com/84783236/131940637-6165d12b-d8a5-494d-9685-b14bf7731aae.jpg)
+
 35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.
+
+![35-1](https://user-images.githubusercontent.com/84783236/131940649-7f31c249-73e4-4656-9bd7-07c425eb9fe1.png)
+![35-2](https://user-images.githubusercontent.com/84783236/131940654-aa62ac77-a4a9-4963-9548-f1e2dde02e3e.png)
 
 37. Dada v = 5 sen (ωt + 45 °). Si ω = 20π rad / s, ¿qué valor tiene v cuando t = 20, 75 y 90 ms?
 
+![37-1](https://user-images.githubusercontent.com/84783236/131940671-1868c8b1-e579-4166-9943-d4e82fe6935d.png)
+![37-2](https://user-images.githubusercontent.com/84783236/131940680-dc14d731-5ad7-4480-83f1-18a47d7076e7.png)
+![37-3](https://user-images.githubusercontent.com/84783236/131940685-9ce122da-a713-43e7-9d35-22005ddfab8d.png)
+
 39. Determine la ecuación para la forma de onda que se muestra en la figura 15-84.
 
+![39-1](https://user-images.githubusercontent.com/84783236/131940727-cd5c1db3-5eff-4d8b-8f63-e304ce7b5e0b.png)
+![39-1](https://user-images.githubusercontent.com/84783236/131940733-440f9c79-925b-4490-b3c7-02affcbc0d1d.png)
 
 
 
