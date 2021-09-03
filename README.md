@@ -68,6 +68,21 @@ ilitar el analisis
 ![43-3](https://user-images.githubusercontent.com/84783236/131940990-b994ff3c-dd31-468c-b4e3-9ac24277c619.png)
 ![43-4](https://user-images.githubusercontent.com/84783236/131940996-07b48882-c9f3-46db-84b0-6005cfba93ec.png)
 
+45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
+![45-1](https://user-images.githubusercontent.com/84783236/131943782-b4f88747-e9d7-4b54-8da8-f50f8e121a0f.png)
+![45-2](https://user-images.githubusercontent.com/84783236/131943786-7fd9e705-36f5-450a-8eae-c2d89abb735b.png)
+
+
+47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
+
+![47](https://user-images.githubusercontent.com/84783236/131943790-33df2e0f-ff9b-421a-ad39-6eb72ab49fec.png)
+
+49. Calcule Iprom o Vprom para las formas de onda de la figura 15-88.
+![49-1](https://user-images.githubusercontent.com/84783236/131943808-bd957520-535f-43fe-8dc1-822830ea1b44.png)
+![49-2](https://user-images.githubusercontent.com/84783236/131943811-6713ad2a-334a-4511-9666-c523e74911c0.png)
+![49-3](https://user-images.githubusercontent.com/84783236/131943815-e9752420-057d-46c4-b488-bec2dda90511.png)
+![49-4](https://user-images.githubusercontent.com/84783236/131943826-4634fd10-e522-496f-9520-c1a20e060faa.png)
+
 
 
 
