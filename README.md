@@ -44,6 +44,71 @@ ilitar el analisis
 
 # capitulo16
 
+1. Convierta cada uno de los siguientes números a forma polar:
+
+![1 1](https://user-images.githubusercontent.com/81887698/131935743-453f9e15-7a54-41c4-814b-0ef7c0554c5c.PNG)
+
+![1 b](https://user-images.githubusercontent.com/81887698/131935742-cf8d4de5-e926-4ef2-832e-19a98c5eb450.PNG)
+
+![1 3](https://user-images.githubusercontent.com/81887698/131935741-4d2a658f-b05e-4479-9aec-3e73400e2a53.PNG)
+
+5. Exprese sus respuestas en forma rectangular.
+
+![5 1](https://user-images.githubusercontent.com/81887698/131935789-1a15dd4c-4557-4e4f-80bb-6fa5768e4b00.PNG)
+
+![5 2](https://user-images.githubusercontent.com/81887698/131935790-c9939053-491d-4f82-8640-b2ea366e07b8.PNG)
+
+![5 3](https://user-images.githubusercontent.com/81887698/131935791-d794f114-6998-43a2-a591-4307f99f6b00.PNG)
+
+
+7. Reduzca cada corriente siguiente a forma polar:
+
+![7 1](https://user-images.githubusercontent.com/81887698/131935811-577e23dc-fdc8-4648-99ac-3ff7947dd2f9.PNG)
+
+![7 2](https://user-images.githubusercontent.com/81887698/131935815-b01a4ed0-cdc2-4626-8d7e-f3b3e1ca48fc.PNG)
+
+![7 3](https://user-images.githubusercontent.com/81887698/131935816-2403ecd3-cf90-4ad6-bb5f-bce4069f4e7f.PNG)
+
+![7 4](https://user-images.githubusercontent.com/81887698/131935817-107faca0-b586-47d1-a545-8a762c8f5d5b.PNG)
+
+9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16 - 48.
+
+![grafica 9](https://user-images.githubusercontent.com/81887698/131935841-8d09c708-29f5-49cc-9293-137465ded74a.PNG)
+![9 1](https://user-images.githubusercontent.com/81887698/131935851-4fe3ddf4-d95e-4a2e-aaf3-42723b6c4d35.PNG)
+
+
+
+11. Repita el problema 10 para v = e1 - e2.
+
+
+![11 1](https://user-images.githubusercontent.com/81887698/131935870-0792984f-c510-4b0f-8e9c-719c7848279f.PNG)
+
+13. Para la figura 16-50, i_1=25 sen(wt+36º)mA e i_2=40 cos⁡(wt-10º)mA.
+
+![grafica 13](https://user-images.githubusercontent.com/81887698/131935895-207078d2-8d38-4d17-a8bd-70e6465f5e2c.PNG)
+
+
+a. Determine los fasores I_1,I_2  e I_T.
+b.  Determine la ecuación para I_T en el dominio del tiempo.
+
+![13 1](https://user-images.githubusercontent.com/81887698/131935907-8247b08d-e249-48c7-a7e0-0e2409a07167.PNG)
+
+
+
+15. Para la figura 16-18, i_1=7 sen(wt)mA,i_2=4 sen(wt-90º)mA e i_3=6 sen(wt+90º)mA
+
+![grfica 15](https://user-images.githubusercontent.com/81887698/131935913-ecc37f68-ea12-4a5f-b092-91e305c832e0.PNG)
+
+
+a. Determine los fasores I_1,I_2,I_3  e I_T
+b. Determine la ecuación para I_T en el dominio del tiempo.
+
+![15 1](https://user-images.githubusercontent.com/81887698/131935931-73efe669-7af8-4f79-b0d3-14f36316b8bd.PNG)
+
+![15 23](https://user-images.githubusercontent.com/81887698/131935933-a85d68d3-5380-4d69-9021-b54860216be7.PNG)
+
+
+
 17. Para la figura 16-52 , R= 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
 
 ![image](https://user-images.githubusercontent.com/85320165/131932308-c3f9fcab-2409-417e-9f84-bf8a8c598669.png)
