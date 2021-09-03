@@ -20,15 +20,18 @@
 
 1.1.Objetivo general.
 
-Analizar y comprender el capitulo  9-10 del libro de "Analisis de circuitos electricos" y realizar los ejercicios que se plantea en cada capitulo
+Analizar y comprender el capitulo  15-16 del libro de "Analisis de circuitos electricos" y realizar los ejercicios que se plantea en cada capitulo
 
 1.2. Objeticos específicos.
 
--Aplicar los aprendizajes resividos del docenten en  ejercicios del capitulo 9-10
+-Aplicar los aprendizajes resividos del docenten en  ejercicios del capitulo 15-16
 
--Entender como funciona los diferentes tipos de analisis de circuitosy asi poderlos usar de manera mas facil.
+-Identificar la forma de onda en especial la del seno conocida como sinusoidal
 
--Revisar el funcionamiento de ls fuentes de voltaje y corriente  saber como transformarlas para poder facilitar el analisis
+Implementar las propiedades y conceptos de los numeros complejos en la comprension y analisis de fasores.
+
+
+ilitar el analisis
 
 # 2.MARCO TEÓRICO (RESUMEN)
 
@@ -46,9 +49,9 @@ Analizar y comprender el capitulo  9-10 del libro de "Analisis de circuitos elec
 
 
 # 5.CONCLUSIONES
--El analisis los circuitos mediante los métodos estudiados facilitó  la solución de los mismos.
--Una fuente de corriente mantiene la misma corriente en la rama del circuito indistintamente de los componentes que allí se encuentren asi es siempre que los componentes esten en serie. 
--La transformacion de fuentes ayudo mucho hacer los calculos mucha mas comodidad
+-La relacion entre la representacion grafica de una frecuencia y el uso de numeros imaginarios, nos ayuda a comprender los desfases que puede sufrir una señal con respecto a otra, nos ayudan a realizar operaciones fundamentales entre funciones senos de voltajes y de mas analisis relacionados a las frecuencias de una fuente "CD".
+
+
 
 # 6.BIBLIOGRAFÍA
 Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
