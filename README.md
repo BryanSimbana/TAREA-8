@@ -43,6 +43,7 @@ ilitar el analisis
 
 
 # capitulo16
+17. Para la figura 16-52 , R= 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
 
 # 4.VIDEO
 
