@@ -35,6 +35,8 @@ ilitar el analisis
 
 # 2.MARCO TEÓRICO (RESUMEN)
 
+![mapa teorico](https://user-images.githubusercontent.com/84783236/131951389-da2ac409-53ad-403b-a758-e634e40c57ee.png)
+
 
 
 # 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
