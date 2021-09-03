@@ -37,11 +37,88 @@ ilitar el analisis
 
 ![mapa teorico](https://user-images.githubusercontent.com/84783236/131951389-da2ac409-53ad-403b-a758-e634e40c57ee.png)
 
+![m1](https://user-images.githubusercontent.com/85522189/132004672-83474a8c-62c3-429c-821b-c22f5c37aaa6.PNG)
+![m2](https://user-images.githubusercontent.com/85522189/132004688-dcf8b64d-3d18-4e2f-8f6a-ae08cf7b40c0.PNG)
 
 
 # 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 # capitulo15
+1. ¿A que se refiere “voltaje de ca” y “corriente de ca”?
+
+es un tipo de corriente electrónica en la que la dirección del flujo de electrones va y viene en intervalos regulares o en ciclos
+
+Los voltajes de las fuentes de se alteran su polaridad y varía en magnitud por lo que producen corrientes que varía en magnitud y alteran su dirección
+
+3. a. ¿Qué significa valor instantáneo?
+
+El valor del voltaje en cualquier punto de la fórmula de onda se conoce como valor instantáneo
+
+b. Para la figura 15-74, determine los voltajes instantáneos en t  0, 1, 2, 3,4, 5, 6, 7 y 8 ms.
+
+![1](https://user-images.githubusercontent.com/85522189/132005647-c26ecabe-beb6-463b-95e6-0d4872ab2962.PNG)
+
+
+![4](https://user-images.githubusercontent.com/85522189/132005669-94467549-5cf2-4a4f-8a8d-2243ab055a2f.PNG)
+
+5. La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine
+la corriente en t  0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
+
+![2](https://user-images.githubusercontent.com/85522189/132005657-fad60779-00b0-4080-8946-053708c5f768.PNG)
+
+7. Para cada uno de los siguientes, determine la frecuencia:
+a. T = 0.5 s
+b. T =100 s
+c. 5T =80 s
+
+![3](https://user-images.githubusercontent.com/85522189/132005668-fe60e003-5ea1-49bf-b127-840ff262f762.PNG)
+
+9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77.
+
+![4](https://user-images.githubusercontent.com/85522189/132005669-94467549-5cf2-4a4f-8a8d-2243ab055a2f.PNG)
+
+11. ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico a pico de la figura 15-78?
+
+![5](https://user-images.githubusercontent.com/85522189/132006164-e624d7ad-54b5-4de8-89c5-b4bc9b1bbae7.PNG)
+
+13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
+
+![6](https://user-images.githubusercontent.com/85522189/132006168-e2f60520-8e89-4c83-a34f-9c598121b20e.PNG)
+
+15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1  0.25T2 y f1  10 kHz, ¿cuáles son los valores de T1, T2 y f2?
+
+![7](https://user-images.githubusercontent.com/85522189/132006176-0303c2a6-63f6-4c44-914e-e7e9a1d45b71.PNG)
+
+17. Dado el voltaje v  Vm sen a. Si Vm  240 V, ¿qué valor tiene v cuando a 37?
+
+![8](https://user-images.githubusercontent.com/85522189/132006184-d387fd95-8e37-41f7-9a30-58cbeb088b12.PNG)
+
+19. Un voltaje sinusoidal tiene un valor de 50 V cuando a  150. ¿Qué valor
+tiene Vm?
+
+![9](https://user-images.githubusercontent.com/85522189/132006190-af1fc777-14b2-4f98-a6f5-e7c9813e916c.PNG)
+
+21. Convierta los siguientes ángulos de grados a radianes:
+a. 10 d. 150
+b. 25 e. 350
+c. 80 f. 620
+
+![10](https://user-images.githubusercontent.com/85522189/132006198-3fd0ab33-8716-44c0-8927-217def705ca4.PNG)
+
+23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t  30, 75, 140 y 315 ms.
+
+![11](https://user-images.githubusercontent.com/85522189/132006676-7c532c3a-481d-47f9-b018-c0b13e297d71.PNG)
+
+25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t  5 s. Determine Vm y dibuje la forma de onda.
+
+![12](https://user-images.githubusercontent.com/85522189/132006680-bb8dbc60-3424-453f-8cc7-05178539e2b7.PNG)
+
+27. Calcule q en radianes por segundo para cada uno de los siguientes casos:
+a. T  100 ns d. periodo  20 ms
+b. f  30 Hz e. 5 periodos en 20 ms
+c. 100 ciclos en 4 s
+
+![13](https://user-images.githubusercontent.com/85522189/132006682-9024536a-6b32-4693-aea9-d66f0b658e92.PNG)
 
 33. Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 us.
 
