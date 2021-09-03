@@ -41,6 +41,16 @@ ilitar el analisis
 
 # capitulo15
 
+33. Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 us.
+
+35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.
+
+37. Dada v = 5 sen (ωt + 45 °). Si ω = 20π rad / s, ¿qué valor tiene v cuando t = 20, 75 y 90 ms?
+
+39. Determine la ecuación para la forma de onda que se muestra en la figura 15-84.
+
+
+
 
 # capitulo16
 
