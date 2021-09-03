@@ -83,6 +83,43 @@ ilitar el analisis
 ![49-3](https://user-images.githubusercontent.com/84783236/131943815-e9752420-057d-46c4-b488-bec2dda90511.png)
 ![49-4](https://user-images.githubusercontent.com/84783236/131943826-4634fd10-e522-496f-9520-c1a20e060faa.png)
 
+51. Para el circuito de la figura 15-90, e = 25 senωt V y un periodo de T = 120 ms.
+
+![51](https://user-images.githubusercontent.com/84783236/131950483-03f12416-2c78-4edd-8f1e-a3bc77a38f72.png)
+
+una. Dibuje el voltaje v (t) coloque en el eje una escala en milisegundos.
+
+![51-1](https://user-images.githubusercontent.com/84783236/131950510-c65e29e4-1578-4c8a-bcae-b0b6ed50e028.png)
+
+B. Determine los voltajes pico y mínimo.
+
+![51-b](https://user-images.githubusercontent.com/84783236/131950542-60aab175-c267-410b-aa34-f4ee2068aaf4.png)
+
+C. Calcule v cuando t = 10, 20, 70 y 100 ms.
+
+![51-c](https://user-images.githubusercontent.com/84783236/131950566-84d86862-39bc-4dc3-ad72-c5ccea971e9f.png)
+![51-c1](https://user-images.githubusercontent.com/84783236/131950570-9a8e9b77-148b-445c-87b6-3ec41f3b0bff.png)
+![51-c2](https://user-images.githubusercontent.com/84783236/131950574-8ee42fb5-b3ba-417e-93de-0e4da82cd1bd.png)
+![51-c3](https://user-images.githubusercontent.com/84783236/131950588-659fd6d5-478b-4458-a731-b1dd76dbb905.png)
+
+53. Utilice cálculo, para encontrar el valor promedio para la figura 15-91.
+
+![53](https://user-images.githubusercontent.com/84783236/131950617-4d59b27f-fdbb-41ac-8e6c-164a5ca1b8ef.png)
+![53-1](https://user-images.githubusercontent.com/84783236/131950630-af5c89d9-bb38-4836-8e5d-f10c74587b64.png)
+
+55. Determine los valores rms para cada uno de los siguientes casos:
+
+![55](https://user-images.githubusercontent.com/84783236/131950654-5c110fc2-1a69-41d9-8c6c-5638c9012b67.png)
+
+59. Calcule los valores rms para las formas de onda de la figura 15-92.
+
+![59](https://user-images.githubusercontent.com/84783236/131950673-240e6e9c-086c-4a3a-b341-c09cdace231b.png)
+![59-1](https://user-images.githubusercontent.com/84783236/131950677-3af80386-87ce-426a-9378-936e1d48e588.png)
+
+61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?
+
+![61](https://user-images.githubusercontent.com/84783236/131950693-27498e85-9166-498f-a243-e5ff70b5e38f.png)
+![61-1](https://user-images.githubusercontent.com/84783236/131950699-e4b2d9ca-2ac3-40bc-b833-b9f90fd0064b.png)
 
 
 
