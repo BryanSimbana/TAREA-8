@@ -258,7 +258,7 @@ b. ¿Calcule  v_T=V_R1+V_R2  y compárelo con V_T calculada a partir de V_T=i R_
 
 # 4.VIDEO
 
-
+https://youtu.be/KpHSQCZ8OJo
 
 # 5.CONCLUSIONES
 -La relacion entre la representacion grafica de una frecuencia y el uso de numeros imaginarios, nos ayuda a comprender los desfases que puede sufrir una señal con respecto a otra, nos ayudan a realizar operaciones fundamentales entre funciones senos de voltajes y de mas analisis relacionados a las frecuencias de una fuente "CD".
