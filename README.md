@@ -1,7 +1,12 @@
 # TAREA-8
-![image](https://user-images.githubusercontent.com/85320165/131928765-646e56f8-d0ec-4b4d-b5b4-c597dd0b64cc.png)
+## UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
-integrantes:
+
+
+
+# ![image](https://user-images.githubusercontent.com/85320165/131928765-646e56f8-d0ec-4b4d-b5b4-c597dd0b64cc.png)
+
+# Integrantes:
 
 -Josue Pillajo
 
@@ -11,121 +16,111 @@ integrantes:
 
 -Nayeli Tisalema
 
-1.OBJETIVOS
+# 1.OBJETIVOS
 
 1.1.Objetivo general.
 
-Analizar y comprender el capitulo  9-10 del libro de "Analisis de circuitos electricos" y realizar los ejercicios que se plantea en cada capitulo
+Analizar y comprender el capitulo  15-16 del libro de "Analisis de circuitos electricos" y realizar los ejercicios que se plantea en cada capitulo
 
 1.2. Objeticos específicos.
 
--Aplicar los aprendizajes resividos del docenten en  ejercicios del capitulo 9-10
+-Aplicar los aprendizajes resividos del docenten en  ejercicios del capitulo 15-16
 
--Entender como funciona los diferentes tipos de analisis de circuitosy asi poderlos usar de manera mas facil.
+-Identificar la forma de onda en especial la del seno conocida como sinusoidal
 
--Revisar el funcionamiento de ls fuentes de voltaje y corriente  saber como transformarlas para poder facilitar el analisis
-
-2.MARCO TEÓRICO (RESUMEN)
-
-![m1](https://user-images.githubusercontent.com/85522189/131929426-c5fdfd3b-970e-4d32-8543-9881cf1f13e8.PNG)
-![m2](https://user-images.githubusercontent.com/85522189/131929445-c5472382-3efc-4b36-9b7b-1242ddc7429f.PNG)
+Implementar las propiedades y conceptos de los numeros complejos en la comprension y analisis de fasores.
 
 
+ilitar el analisis
+
+# 2.MARCO TEÓRICO (RESUMEN)
 
 
-3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-#capitulo15
-1. ¿A que se refiere “voltaje de ca” y “corriente de ca”?
-2. 
-la corriente alterna (CA)es un tipo de corriente electrónica en la que la dirección del flujo de electrones va y viene en intervalos regulares o en ciclos
+# 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-Los voltajes de las fuentes de se alteran su polaridad y varía en magnitud por lo que producen corrientes que varía en magnitud y alteran su dirección
+# capitulo15
 
-3. a. ¿Qué significa valor instantáneo?
 
-El valor del voltaje en cualquier punto de la fórmula de onda se conoce como valor instantáneo
+# capitulo16
 
-b. Para la figura 15-74, determine los voltajes instantáneos en t=0, 1, 2, 3,4, 5, 6, 7 y 8 ms.
+17. Para la figura 16-52 , R= 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
 
-![1](https://user-images.githubusercontent.com/85522189/131932053-be6e9a1b-5105-40a9-85ba-8096deb76b84.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131932308-c3f9fcab-2409-417e-9f84-bf8a8c598669.png)
 
-5. La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine la corriente en t =0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
+![image](https://user-images.githubusercontent.com/85320165/131932342-adc1ce43-8859-46f9-8cbc-154c9fa5181e.png)
 
-![2](https://user-images.githubusercontent.com/85522189/131932074-84c179f4-d235-46f0-b0aa-dcc72464b34f.PNG)
-![3](https://user-images.githubusercontent.com/85522189/131932082-8fec7701-8c52-422d-af28-513116a2a75b.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131932379-16c72bf0-8b6f-43e1-a299-149746177ac7.png)
 
-7. Para cada uno de los siguientes, determine la frecuencia:
-a. T =0.5 s
-b. T =100 s
-c. 5T=80 s
+![image](https://user-images.githubusercontent.com/85320165/131932417-adada6d4-3119-4628-b941-6e5416fe95e8.png)
 
-![4](https://user-images.githubusercontent.com/85522189/131932132-e66e515e-8ebb-4fe7-8549-a7d096555b7c.PNG)
+19. Dos resistores R1= 10 kΩ y R2=12.5 kΩ están en serie. Si i=14.7sen(wt+39º)mA
+a. ¿Cuánto valen V_R1  y V_R2?
 
-9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77.
+![image](https://user-images.githubusercontent.com/85320165/131932516-67b3cd60-e034-4e59-ab7e-65286e8a5b1b.png)
 
-![5](https://user-images.githubusercontent.com/85522189/131932152-a813f6d2-3687-4a3b-b286-78596d8c3775.PNG)
+b. ¿Calcule  v_T=V_R1+V_R2  y compárelo con V_T calculada a partir de V_T=i R_T.
 
-11. ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico a pico de la figura 15-78?
+![image](https://user-images.githubusercontent.com/85320165/131932757-d864db67-ab37-4595-8911-ecee9f11ea9e.png)
 
-![6](https://user-images.githubusercontent.com/85522189/131932312-11f2b90d-bfa5-4002-ab46-d0f4ff038c59.PNG)
+21. Para la figura 16-53, V_m=10 e I_m=5 A. Para cada expresión, determine la cantidad solicitada.
 
-13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
+![image](https://user-images.githubusercontent.com/85320165/131932798-47520de5-c022-4137-8140-5a475eb5f919.png)
 
-![7](https://user-images.githubusercontent.com/85522189/131932360-ea996c50-66cb-458f-8516-7ebf912f6634.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131932863-918e4f06-b2a2-475d-aa44-46cb078eeb50.png)
 
-15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1=0.25T2 y f1=10 kHz, ¿cuáles son los valores de T1, T2 y f2?
+![image](https://user-images.githubusercontent.com/85320165/131932889-cb184a8c-5f47-4088-8d8d-29646a7343c3.png)
 
-![8](https://user-images.githubusercontent.com/85522189/131932377-defc4ce7-dde3-4c50-ad5e-fc20414d884e.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131932928-4f6e569f-73bb-4944-9034-32156c12a68e.png)
 
-17. Dado el voltaje v=Vm sen a. Si Vm=240 V, ¿qué valor tiene v cuando a=37?
+![image](https://user-images.githubusercontent.com/85320165/131932942-4c711939-c31d-4bbe-a8b4-7f463f1a48ef.png)
 
-![9](https://user-images.githubusercontent.com/85522189/131932393-e932b871-05aa-4e31-bef4-159d29e3acdc.PNG)
+23. Para la figura 16-53, e=100 sen(wt)  y L=0.5 H. Determinar i_L a…
 
-19. Un voltaje sinusoidal tiene un valor de 50 V cuando a=150. ¿Qué valor tiene Vm?
+![image](https://user-images.githubusercontent.com/85320165/131933004-f9da23ab-f63f-4f6a-a2c2-9184720dad3e.png)
 
-![10](https://user-images.githubusercontent.com/85522189/131932435-d8d492e7-60ed-42c1-8944-36dbddd89767.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131933044-a9971a56-6061-47c2-ba43-44021f3d43d0.png)
 
-21. Convierta los siguientes ángulos de grados a radianes:
-a. 10 d. 150
-b. 25 e. 350
-c. 80 f. 620
+![image](https://user-images.githubusercontent.com/85320165/131933083-edbfd3db-a1ef-498b-b4b0-137f0495d5af.png)
 
-![11](https://user-images.githubusercontent.com/85522189/131932450-1d91e88e-1faa-4c1d-9d3f-cb4be667fb95.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131933097-aac6cd39-a142-4c4b-b66d-d68ddf29a5a0.png)
 
-23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t=30, 75, 140 y 315 ms.
+25) Para la figura 16-53, si a. vL=40sen(wt+30°�)V, iL=364sen(wt-60°�)mA y L=2 mH, ¿cuál es el valor de f? b. iL=250sen(wt+40°)�uA, vL=40sen(wt+ø)V, y f=500 kHz, ¿cuál es el valor de L y v?
 
-![12](https://user-images.githubusercontent.com/85522189/131932461-1170228a-eaa4-4b4b-979d-c592cb6c4e50.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131933140-90ad4476-b314-4a37-8019-9eb27017fe53.png)
 
-25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t=5 s. Determine Vm y dibuje la forma de onda.
+![image](https://user-images.githubusercontent.com/85320165/131933183-e05b1db0-d659-40f5-861e-431aeee2165e.png)
 
-![13](https://user-images.githubusercontent.com/85522189/131932490-be0c443a-fa10-4d77-822d-0696939ff0b6.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131933224-3157e323-d2b3-484a-b5a9-68f0c06ddfb2.png)
 
-27. Calcule q en radianes por segundo para cada uno de los siguientes casos:
-a. T = 100 ns           d. periodo  20 ms
-b. f= 30 Hz             e. 5 periodos en 20 ms
-c. 100 ciclos en 4 s
+29) Para la figura 16-54, C=50 �uF. a. vC=100 sen377t V, ¿cuánto vale iC? b. iC=10sen(2pi×400t-60°), ¿cuánto vale vC?
 
-![14](https://user-images.githubusercontent.com/85522189/131932500-67685db6-1c39-4198-b9b1-a87a2ef69181.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131933264-eba7944f-0a94-4052-a498-87cac83a1d3e.png)
 
-29. Determine las ecuaciones para las ondas seno con lo siguiente:
-a. Vm =170 V, f =60 Hz c. T=120 s, v=10 V en t=12 s
-b. Im =40 A, T =10 ms
+![image](https://user-images.githubusercontent.com/85320165/131933319-0866863f-6972-4af9-9f2a-7039a5200c89.png)
 
-![15](https://user-images.githubusercontent.com/85522189/131932514-b1a2f188-389e-47cc-974c-7b5abd5dce4e.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131933356-2013b7a5-71b5-4e2f-8503-54894f0faaa4.png)
 
-31. Una onda seno tiene un voltaje pico a pico de 40 V y T  50 ms. Determine su ecuación.
+31) Determine la impedancia de cada elemento de circuito de la figura 16-55.
 
-![16](https://user-images.githubusercontent.com/85522189/131932522-8bfd321f-4e76-4277-b5c3-7fed8705a393.PNG)
+![image](https://user-images.githubusercontent.com/85320165/131933372-2c7db1db-faf1-473f-b5bf-da2db71db5c9.png)
 
-#capitulo16
+![image](https://user-images.githubusercontent.com/85320165/131933421-5764616b-59f0-4989-ad2b-e193d580770f.png)
 
-4.VIDEO
 
-5.CONCLUSIONES
--El analisis los circuitos mediante los métodos estudiados facilitó  la solución de los mismos.
--Una fuente de corriente mantiene la misma corriente en la rama del circuito indistintamente de los componentes que allí se encuentren asi es siempre que los componentes esten en serie. 
--La transformacion de fuentes ayudo mucho hacer los calculos mucha mas comodidad
+# 4.VIDEO
 
-6.BIBLIOGRAFÍA
+
+
+# 5.CONCLUSIONES
+-La relacion entre la representacion grafica de una frecuencia y el uso de numeros imaginarios, nos ayuda a comprender los desfases que puede sufrir una señal con respecto a otra, nos ayudan a realizar operaciones fundamentales entre funciones senos de voltajes y de mas analisis relacionados a las frecuencias de una fuente "CD".
+
+
+
+# 6.BIBLIOGRAFÍA
 Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
+
+
+
+
+
