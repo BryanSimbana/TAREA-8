@@ -59,7 +59,15 @@ ilitar el analisis
 39. Determine la ecuación para la forma de onda que se muestra en la figura 15-84.
 
 ![39-1](https://user-images.githubusercontent.com/84783236/131940727-cd5c1db3-5eff-4d8b-8f63-e304ce7b5e0b.png)
-![39-1](https://user-images.githubusercontent.com/84783236/131940733-440f9c79-925b-4490-b3c7-02affcbc0d1d.png)
+![39-2](https://user-images.githubusercontent.com/84783236/131940944-01813477-c843-4c7c-91c9-e29d1ec3c9ad.png)
+
+43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada
+
+![43-1](https://user-images.githubusercontent.com/84783236/131940974-896eea84-c761-48a0-a31b-49dfb9d68fbb.png)
+![43-2](https://user-images.githubusercontent.com/84783236/131940981-22c19923-d09a-4cc1-8c39-2bf0ffe31c1c.png)
+![43-3](https://user-images.githubusercontent.com/84783236/131940990-b994ff3c-dd31-468c-b4e3-9ac24277c619.png)
+![43-4](https://user-images.githubusercontent.com/84783236/131940996-07b48882-c9f3-46db-84b0-6005cfba93ec.png)
+
 
 
 
